@@ -23,4 +23,4 @@ Feel free to further develop, improve, and customize this project. If you'd like
 🔗 Project Link: https://github.com/SUmidcyber
 
 
-  <a href="https://imgur.com/udVAr20"><img src="https://i.imgur.com/udVAr20.png" title="source: imgur.com" /></a>
+ <a href="https://imgur.com/LR5LzA6"><img src="https://i.imgur.com/LR5LzA6.jpg" title="source: imgur.com" /></a>
