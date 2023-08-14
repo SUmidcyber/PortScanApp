@@ -1,6 +1,6 @@
 ## 🚀 Port Scan App - Fast and Comprehensive Network Port Scanning 🚀
 
-## Hello! With the Port Scan App, you can quickly and comprehensively scan target IP addresses and ports in your network. This project is designed for scenarios like security testing and network analysis, and its user-friendly interface makes it easy to use.
+Hello! With the Port Scan App, you can quickly and comprehensively scan target IP addresses and ports in your network. This project is designed for scenarios like security testing and network analysis, and its user-friendly interface makes it easy to use.
 
 # 🔍 Features:
 - Scan target IP addresses and ports to quickly assess network security.
