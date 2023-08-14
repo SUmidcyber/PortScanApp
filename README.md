@@ -20,4 +20,4 @@
 # 👏 Developers:
 Feel free to further develop, improve, and customize this project. If you'd like to contribute, please don't hesitate to send a "Pull Request"!
 
-# 🔗 Project Link: https://github.com/SUmidcyber
+🔗 Project Link: https://github.com/SUmidcyber
